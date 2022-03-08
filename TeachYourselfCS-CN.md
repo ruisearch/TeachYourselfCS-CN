@@ -135,7 +135,7 @@
 
 学习离散数学，我们建议从 [László Lovász 的课程笔记](http://www.cs.elte.hu/~lovasz/dmbook.ps) 开始。Lovász 教授成功地让这些内容浅显易懂且符合直觉，因此，比起正式的教材，这更适合初学者。
 
-对于更加高阶的学习，我们推荐 [《计算机科学中的数学》](https://book.douban.com/subject/33396340/)，MIT 同名课程的课程笔记，篇幅与书籍相当（事实上，现已出版）。这门课程的视频同样 [可免费获得](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/)，是我们所推荐的学习视频。
+对于更加高阶的学习，我们推荐 [《计算机科学中的数学》](https://book.douban.com/subject/33396340/)，MIT 同名课程的课程笔记，篇幅与书籍相当（事实上，现已出版）。这门课程的视频同样 [可免费获得](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/)，是我们所推荐的学习视频。solution to sets:https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2005/assignments/
 
 对于线性代数，我们建议从 [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) 系列视频开始，然后再去学习 Gilbert Strang 的 [《线性代数导论》](https://book.douban.com/subject/34820335/) 和 [视频课程](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/)。
 
