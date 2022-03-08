@@ -149,7 +149,7 @@
 
 [《操作系统概念》](https://book.douban.com/subject/30297919/)（「恐龙书」）和 [《现代操作系统》](https://book.douban.com/subject/27096665/) 是操作系统领域的经典书籍。二者都因为写作风格和对学生不友好而招致了一些批评。
 
-[《操作系统导论》（*Operating Systems: Three Easy Pieces*）](https://book.douban.com/subject/33463930/) 是一个不错的替代品，并且 [可在网上免费获得（英文版）](http://pages.cs.wisc.edu/~remzi/OSTEP/)。我们格外喜欢这本书的结构，并且认为这本书的习题很值得一做。
+[《操作系统导论》（*Operating Systems: Three Easy Pieces*）](https://book.douban.com/subject/33463930/) 是一个不错的替代品，并且 [可在网上免费获得（英文版）](http://pages.cs.wisc.edu/~remzi/OSTEP/)。我们格外喜欢这本书的结构，并且认为这本书的习题很值得一做。国内课程：南大蒋炎岩https://www.bilibili.com/video/BV1Cm4y1d7Ur?spm_id_from=333.999.0.0
 
 在读完《操作系统导论》后，我们鼓励你探索特定操作系统的设计。可以借助「{OS name} Internals」风格的书籍，比如 [*Lion's commentary on Unix*](https://www.amazon.com/Lions-Commentary-Unix-John/dp/1573980137/)， [*The Design and Implementation of the FreeBSD Operating System*](https://www.amazon.com/Design-Implementation-FreeBSD-Operating-System/dp/0321968972/)，以及 [*Mac OS X Internals*](https://www.amazon.com/Mac-OS-Internals-Systems-Approach/dp/0321278542/)。对于 Linux ，我们推荐 Robert Love 的 [《Linux 内核设计与实现》](https://book.douban.com/subject/6097773/)。
 
