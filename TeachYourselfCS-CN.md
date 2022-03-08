@@ -115,7 +115,7 @@
 关于算法与数据结构，有成百上千的书可供使用，但是我们的最爱是 Steven Skiena 编写的 [《算法设计手册》](https://book.douban.com/subject/4048566/) 。显而易见，他对此充满热爱，迫不及待地想要帮助其他人理解。在我们看来，这本书给人一种焕然一新的体验，完全不同于那些更加经常被推荐的书（比如 Cormen、Leiserson、Rivest、Stein 或 Sedgewick 的书，后两者充斥着过多的证明，不适合以 **解决问题** 为导向的学习）。
 
 如果你更喜欢视频课程，[Skiena 慷慨地提供了他的课程](https://www.youtube.com/watch?v=A2bFN3MyNDA&list=PLOtl7M3yp-DX32N0fVIyvn7ipWKNGmwpp)。此外，Tim Roughgarden 的课程也很不错，
-在 Stanford 的 MOOC 平台 Lagunita，或者 [Coursera](https://www.coursera.org/specializations/algorithms) 上均可获得。Skiena 和 Roughgarden 的这两门课程没有优劣之分，选择何者取决于个人品味。
+在 Stanford 的 MOOC 平台 Lagunita，或者 [Coursera](https://www.coursera.org/specializations/algorithms) 上均可获得。Skiena 和 Roughgarden 的这两门课程没有优劣之分，选择何者取决于个人品味。中文课程：ACwin算法基础课、进阶课等 https://www.acwing.com/activity/
 
 至于练习，我们推荐学生在 [Leetcode](https://leetcode.com) 上解决问题。Leetcode 上的问题往往有趣且带有良好的解法和讨论。此外，在竞争日益激烈的软件行业，这些问题可以帮助你评估自己应对技术面试中常见问题的能力。我们建议解决大约 100 道随机挑选的 Leetcode 问题，作为学习的一部分。
 
